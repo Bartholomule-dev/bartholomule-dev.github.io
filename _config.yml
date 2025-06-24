@@ -10,5 +10,13 @@ plugins:
   - jekyll-include-cache
   
 # Optional (but recommended)
-minimal_mistakes_skin: "default" # or "dark", "air", etc.
+minimal_mistakes_skin: "dark"
 locale: "en-US"
+
+author:
+  name: Bartholomule
+  avatar: "/assets/images/avatar.png" # optional
+  bio: "Developer of TBD, an indie roguelike in progress."
+
+navigation:
+  - main

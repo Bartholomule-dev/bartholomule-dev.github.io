@@ -3,7 +3,7 @@ description: A game development blog
 baseurl: "" # leave this empty for user/organization site
 url: "https://bartholomule-dev.github.io" # your site URL
 
-theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes"
 plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
